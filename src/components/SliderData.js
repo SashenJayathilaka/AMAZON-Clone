@@ -1,18 +1,19 @@
+import firstSliderImage from "../assets/firstImage.jpg";
+import secondSliderImage from "../assets/711Y9Al9RNL._SX3000_.jpg";
+import thirdSliderImage from "../assets/71qid7QFWJL._SX3000_.jpg";
+import forthSliderImage from "../assets/61BvxKSpy3L._SX3000_.jpg";
+
 export const SliderData = [
   {
-    image:
-      "https://drive.google.com/uc?export=download&id=1Za-F8-jJNCZrNhhzTlmDKAmXov1C0ncF",
+    image: firstSliderImage,
   },
   {
-    image:
-      "https://drive.google.com/uc?export=download&id=1O776Sl1-cQ8DeB8inIxmGfC-FnaHPim9",
+    image: secondSliderImage,
   },
   {
-    image:
-      "https://drive.google.com/uc?export=download&id=1F4YnmyB0Gvczw9YeHE2hiwAL8FnL4XSy",
+    image: thirdSliderImage,
   },
   {
-    image:
-      "https://drive.google.com/uc?export=download&id=13pRIDOFL0IWOqVRt0_LVC2_y52GcZF15",
+    image: forthSliderImage,
   },
 ];

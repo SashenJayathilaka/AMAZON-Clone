@@ -14,6 +14,8 @@ function Home({ slides }) {
   const length = slides.length;
   const [products, setProducts] = useState([]);
 
+  //console.log(products, "🚀😍");
+
   let firstHomeRow = [];
   let secondHomeRow = [];
   let ThirdHomeRow = [];
@@ -83,9 +85,16 @@ function Home({ slides }) {
     setCurrent(current === 0 ? length - 1 : current - 1);
   };
 
+  useEffect(() => {
+    setTimeout(() => {
+      nextSlide();
+    }, 6000);
+  }, [setTimeout(6000)]);
+
   if (!Array.isArray(slides) || slides.length <= 0) {
     return null;
   }
+
   return (
     <div className="home">
       <div className="home__container">

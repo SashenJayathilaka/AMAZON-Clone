@@ -147,7 +147,9 @@ const Payment = () => {
                 />
                 {user ? (
                   <button disabled={processing || disable || succeeded}>
-                    <span>{processing ? <p>Processing</p> : "Buy Now!"}</span>
+                    <span>
+                      {processing ? <p>Processing...</p> : "Buy Now!"}
+                    </span>
                   </button>
                 ) : (
                   <h3>You Need to Login First, After you can Buy this item</h3>
