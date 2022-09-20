@@ -1,18 +1,50 @@
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+
+<a href="https://whatsapp-clone-2c5b5.web.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+![](https://img.shields.io/badge/Maintained-Yes-indigo)
+![](https://img.shields.io/github/forks/SashenJayathilaka/AMAZON-Clone.svg)
+![](https://img.shields.io/github/stars/SashenJayathilaka/AMAZON-Clone.svg)
+![](https://img.shields.io/github/issues/SashenJayathilaka/AMAZON-Clone)
+![](https://img.shields.io/github/last-commit/SashenJayathilaka/AMAZON-Clone)
+
 # Full-Stack AMAZON Clone with REACT JS
 
 ### Full E-Comm Store
 
-## <a href="https://clone-dd86d.firebaseapp.com" target="_blank">🔴 LIVE DEMO</a>
+## <a href="https://clone-dd86d.web.app/" target="_blank">LIVE DEMO 💥</a>
 
-#### PREREQUISITES:
+### :space_invader: Tech Stack
 
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
-- Download all the images <a href='https://drive.google.com/drive/folders/1Y9yhv4zYdLEopddCbSelV3e6oY-hp_jY?usp=sharing'>HERE</a>
-- Stripe, Inc. <a href='https://stripe.com/en-gb-us'>HERE</a>
-- MongoDB <a href='https://www.mongodb.com'>HERE</a>
-- Postman <a href='https://www.postman.com/'>HERE</a>
-- Heroku <a href='https://www.heroku.com'>HERE</a>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://#/">Javascript</a></li>
+  <li><a href="https://reactjs.org/">React.js</a></li>
+        <li><a href="https://react-redux.js.org">Redux</a></li>
+                <li><a href="#">Stripe</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+   <li><a href="https://firebase.google.com">Firebase</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Api</summary>
+  <ul>
+   <li><a href="https://firebase.google.com">Node Js</a></li>
+      <li><a href="#">MongoDB</a></li>
+         <li><a href="#">Heroku</a></li>
+         <li><a href="#">Stripe</a></li>
+  </ul>
+</details>
+
+<br />
 
 <a href="#facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Facebook" width="30" height="30" /></a>
 <a href="#facebook"><img src="https://user-images.githubusercontent.com/99184393/181918664-569af962-756c-438c-b350-294f042e6f61.png" width="30" height="30" /></a>
@@ -27,9 +59,34 @@
 <a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="30" height="30" /></a>
 <a href="#github"><img src="https://user-images.githubusercontent.com/99184393/181918767-075e0e45-8e1c-4985-88e4-ab84b18c1d9a.png" alt="GitHub" width="30" height="30" /></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!-- Screenshots -->
+### :camera: Screenshots
+
+<div style="display: flex" align="center"><br>
+
+<a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank"> <img width='500rem' src="https://user-images.githubusercontent.com/99184393/181919638-dfc0e40c-74e0-4a2b-bf7d-82023329da9a.png" alt=""/></a>
+<a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank"> <img width='500rem' src="https://user-images.githubusercontent.com/99184393/181920043-fd44564f-72ff-48af-8851-ffac378284de.png" alt=""/></a>
+</div>
+
+<br />
+
+
+## 	:toolbox: Getting Started
+### :bangbang: Prerequisites
+
+- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
+- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+- Download all the images <a href='https://drive.google.com/drive/folders/1Y9yhv4zYdLEopddCbSelV3e6oY-hp_jY?usp=sharing'>HERE</a>
+- Stripe, Inc. <a href='https://stripe.com/en-gb-us'>HERE</a>
+- MongoDB <a href='https://www.mongodb.com'>HERE</a>
+- Postman <a href='https://www.postman.com/'>HERE</a>
+- Heroku <a href='https://www.heroku.com'>HERE</a>
+
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### :gear: Installation
 
 ```
 npx create-react-app amazon-clone
@@ -39,10 +96,107 @@ npx create-react-app amazon-clone
 cd amazon-clone
 ```
 
-In the project directory, you can run:
+<a href="https://firebase.google.com/docs/web/setup" target="_blank">Create a Firebase project.</a>
+
+### :test_tube: Install dependencies
+
+Front-end
 
 ```
-npm start
+npm i react-router-dom
+```
+
+```
+npm i react-currency-format
+```
+
+```
+npm i @stripe/stripe-js
+npm i @stripe/react-stripe-js
+```
+
+```
+npm i axios
+```
+
+```
+npm install faker --save-dev
+```
+
+```
+npm install firebase
+```
+
+```
+npm i react-moment
+```
+
+##### Flip-move
+
+```
+npm i -S react-flip-move
+```
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="React" height="200"  src="https://reactscript.com/wp-content/uploads/2016/04/React-Flip-Move-Module.gif">
+ </div>
+ <br>
+ 
+ 
+Backend
+```
+npm i express
+```
+```
+npm i cors
+```
+```
+npm i stripe
+```
+```
+npm install body-parser
+```
+```
+npm i dotenv
+```
+
+##### Available MATERIAL-UI Scripts
+
+![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+<a href="https://v4.mui.com/">Find</a>
+
+```
+npm install -f @material-ui/core
+```
+
+```
+npm install -f @material-ui/icons
+```
+
+
+<a href="https://github.com/SashenJayathilaka/AMAZON-Clone/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
+
+<!-- Run Locally -->
+### :running: Run Locally
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+Clone the project
+
+```bash
+  git clone https://github.com/SashenJayathilaka/AMAZON-Clone.git
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+In the project directory, you can run:
+
+```bash
+  npm start
 ```
 
 Runs the app in the development mode.\
@@ -82,100 +236,44 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Dependencies
 
-Front-end
+<!-- Deployment -->
+### :triangular_flag_on_post: Deployment
 
-```
-npm i react-router-dom
-```
+To deploy this project run
 
-```
-npm i react-currency-format
-```
+![](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
 
-```
-npm i @stripe/stripe-js
-npm i @stripe/react-stripe-js
-```
+Install the Firebase CLI
 
-```
-npm i axios
-```
+Visit the Firebase CLI documentation to learn how to <a href="https://firebase.google.com/docs/cli#install_the_firebase_cli" target="_blank">install the CLI</a>  or <a href="https://firebase.google.com/docs/cli#update-cli" target="_blank">update to its latest version.</a>
 
-```
-npm install faker --save-dev
-```
-
-```
-npm i react-moment
-```
-
-#### Flip-move
-
-```
-npm i -S react-flip-move
-```
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="React" height="200"  src="https://reactscript.com/wp-content/uploads/2016/04/React-Flip-Move-Module.gif">
- </div>
- <br>
- 
- 
-Backend
-```
-npm i express
-```
-```
-npm i cors
-```
-```
-npm i stripe
-```
-```
-npm install body-parser
-```
-```
-npm i dotenv
-```
-
-## Available MATERIAL-UI Scripts
-
-<a href="https://v4.mui.com/">Find</a>
-
-```
-npm install -f @material-ui/core
-```
-
-```
-npm install -f @material-ui/icons
-```
-
-## Firebase
-
-<a href="https://firebase.google.com/?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEJgGMjrNU4-3-B_y4t75X_98NqlIFJH0-iyVB-5GPQvLm-kihLaerhoCZNYQAvD_BwE&gclsrc=aw.ds">log in</a>
-
-```
-npm install firebase
-```
-
-```
-npm install -g firebase-tools
-```
-
-<a href="https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9">Find</a>
+publish your project
 
 ```
 firebase init hosting
 ```
+Deploy to your site
 
 ```
-npm run build
+firebase deploy --only hosting
 ```
 
-```
-firebase deploy
-```
+[MoreInfo](https://firebase.google.com/docs/hosting/quickstar)
 
-<a href="https://clone-dd86d.firebaseapp.com" target="_blank">![image](https://user-images.githubusercontent.com/99184393/181919638-dfc0e40c-74e0-4a2b-bf7d-82023329da9a.png)![image](https://user-images.githubusercontent.com/99184393/181920043-fd44564f-72ff-48af-8851-ffac378284de.png)</a>
+## :handshake: Contact
+
+Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+
+Project Link: [https://github.com/SashenJayathilaka/AMAZON-Clone.git](https://github.com/SashenJayathilaka/AMAZON-Clone.git)
+
+<!-- Acknowledgments -->
+## :gem: Acknowledgements
+
+Useful resources and libraries that you have used in your projects.
+
+ - [Api (Backend)](https://github.com/SashenJayathilaka/AMAZON-Clone/tree/master/Backend)
+ - [Stripe](https://github.com/SashenJayathilaka/AMAZON-Clone/tree/master/Stripe)
+ - [NPM](https://www.npmjs.com)
+
+<hr />
