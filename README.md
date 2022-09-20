@@ -315,5 +315,3 @@ Useful resources and libraries that you have used in your projects.
  - [Api (Backend)](https://github.com/SashenJayathilaka/AMAZON-Clone/tree/master/Backend)
  - [Stripe](https://github.com/SashenJayathilaka/AMAZON-Clone/tree/master/Stripe)
  - [NPM](https://www.npmjs.com)
-
-<hr />
