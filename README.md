@@ -1,5 +1,5 @@
 # Full-Stack AMAZON Clone with REACT JS
-<a href="https://whatsapp-clone-2c5b5.web.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://clone-dd86d.web.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/SashenJayathilaka/AMAZON-Clone.svg)
 ![](https://img.shields.io/github/stars/SashenJayathilaka/AMAZON-Clone.svg)
