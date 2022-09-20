@@ -65,8 +65,7 @@
 
 <div style="display: flex" align="center"><br>
 
-<a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank"> <img width='500rem' src="https://user-images.githubusercontent.com/99184393/181919638-dfc0e40c-74e0-4a2b-bf7d-82023329da9a.png" alt=""/></a>
-<a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank"> <img width='500rem' src="https://user-images.githubusercontent.com/99184393/181920043-fd44564f-72ff-48af-8851-ffac378284de.png" alt=""/></a>
+<a href="https://clone-dd86d.web.app" target="_blank"> <img width='800rem' src="https://user-images.githubusercontent.com/99184393/181919638-dfc0e40c-74e0-4a2b-bf7d-82023329da9a.png" alt=""/></a>
 </div>
 
 <br />
