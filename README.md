@@ -1,19 +1,27 @@
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
-
-<a href="https://clone-dd86d.web.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+# Full-Stack AMAZON Clone with REACT JS
+<a href="https://whatsapp-clone-2c5b5.web.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/SashenJayathilaka/AMAZON-Clone.svg)
 ![](https://img.shields.io/github/stars/SashenJayathilaka/AMAZON-Clone.svg)
 ![](https://img.shields.io/github/issues/SashenJayathilaka/AMAZON-Clone)
 ![](https://img.shields.io/github/last-commit/SashenJayathilaka/AMAZON-Clone)
 
-# Full-Stack AMAZON Clone with REACT JS
-
 ### Full E-Comm Store
 
+<!-- Screenshots -->
+### :camera: Screenshots
+
+<div style="display: flex" align="center"><br>
+
+<a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank"> <img width='600rem' src="https://user-images.githubusercontent.com/99184393/181919638-dfc0e40c-74e0-4a2b-bf7d-82023329da9a.png" alt=""/></a>
+</div>
+
 ## <a href="https://clone-dd86d.web.app/" target="_blank">LIVE DEMO 💥</a>
+
+
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 ### :space_invader: Tech Stack
 
@@ -23,7 +31,7 @@
     <li><a href="https://#/">Javascript</a></li>
   <li><a href="https://reactjs.org/">React.js</a></li>
         <li><a href="https://react-redux.js.org">Redux</a></li>
-                <li><a href="#">Stripe</a></li>
+                <li><a href="https://#/">Stripe</a></li>
   </ul>
 </details>
 
@@ -37,39 +45,66 @@
 <details>
 <summary>Api</summary>
   <ul>
-   <li><a href="https://firebase.google.com">Node Js</a></li>
-      <li><a href="#">MongoDB</a></li>
-         <li><a href="#">Heroku</a></li>
-         <li><a href="#">Stripe</a></li>
+   <li><a href="https://#/">Node Js</a></li>
+      <li><a href="https://#/">MongoDB</a></li>
+         <li><a href="https://#/">Heroku</a></li>
+         <li><a href="https://#/">Stripe</a></li>
   </ul>
 </details>
 
 <br />
 
-<a href="#facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Facebook" width="30" height="30" /></a>
-<a href="#facebook"><img src="https://user-images.githubusercontent.com/99184393/181918664-569af962-756c-438c-b350-294f042e6f61.png" width="30" height="30" /></a>
-<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="Google" width="30" height="30" /></a>
+<table>
+    <tr>
+        <td>
+           <a href="#facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Facebook" width="40" height="40" /></a>
+        </td>
+                <td>
+<a href="#instagram"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Instagram" width="30" height="30" /></a>
+        </td>
+                        <td>
 <a href="#google"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="Google" width="30" height="30" /></a>
-<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/177785222-28bdbfaa-1f8d-4b20-b5c8-79c370d41622.png" alt="Google" width="30" height="30" /></a>
-<a href="#google"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="Google" width="30" height="30" /></a>
-<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180461713-76c02155-35f5-497e-b3a3-364fec13da39.png" alt="Google" width="30" height="30" /></a>
-<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/181918920-879b4923-e191-4e15-a5ce-67d7930a4ef7.png" alt="Google" width="30" height="30" /></a>
+        </td>
+        <td>
+<a href="#facebook"><img src="https://user-images.githubusercontent.com/99184393/181918664-569af962-756c-438c-b350-294f042e6f61.png" width="40" height="40" /></a>
+        </td>
+        <td>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="Google" width="40" height="40" /></a>
+        </td>
+        <td>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/177785222-28bdbfaa-1f8d-4b20-b5c8-79c370d41622.png" alt="Google" width="40" height="40" /></a>
+        </td>
+                <td>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/181918920-879b4923-e191-4e15-a5ce-67d7930a4ef7.png" alt="Google" width="40" height="40" /></a>
+        </td>
+                        <td>
 <a href="#google"><img src="https://user-images.githubusercontent.com/99184393/181919003-b344b8c0-df77-4555-b17c-a997a73275a0.png" alt="Google" width="50" height="30" /></a>
-<a href="#github"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="30" height="30" /></a>
-<a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="30" height="30" /></a>
-<a href="#github"><img src="https://user-images.githubusercontent.com/99184393/181918767-075e0e45-8e1c-4985-88e4-ab84b18c1d9a.png" alt="GitHub" width="30" height="30" /></a>
+        </td>
+    </tr>
+</table>
 
+<table>
+    <tr>
+        <td>
+<a href="#google"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="Google" width="20" height="20" /></a>
+        </td>
+                <td>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180461713-76c02155-35f5-497e-b3a3-364fec13da39.png" alt="Google" width="20" height="20" /></a>
+        </td>
+                        <td>
+<a href="#github"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="20" height="20" /></a>
+        </td>
+                        <td>
+<a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="20" height="20" /></a>
+        </td>
+                        <td>
+<a href="#github"><img src="https://user-images.githubusercontent.com/99184393/181918767-075e0e45-8e1c-4985-88e4-ab84b18c1d9a.png" alt="GitHub" width="20" height="20" /></a>
+        </td>
+    </tr>
+</table>
 
-<!-- Screenshots -->
-### :camera: Screenshots
-
-<div style="display: flex" align="center"><br>
-
-<a href="https://clone-dd86d.web.app" target="_blank"> <img width='800rem' src="https://user-images.githubusercontent.com/99184393/181919638-dfc0e40c-74e0-4a2b-bf7d-82023329da9a.png" alt=""/></a>
-</div>
 
 <br />
-
 
 ## 	:toolbox: Getting Started
 ### :bangbang: Prerequisites
@@ -185,6 +220,12 @@ Clone the project
 
 ```bash
   git clone https://github.com/SashenJayathilaka/AMAZON-Clone.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
 ```
 
 Install dependencies
