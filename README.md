@@ -1,4 +1,16 @@
-# Full-Stack AMAZON Clone with REACT JS
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/99184393/181918767-075e0e45-8e1c-4985-88e4-ab84b18c1d9a.png" alt="logo" width="200" height="auto" />
+  
+  # Full-Stack AMAZON Clone with REACT JS
+  
+  <p>
+Full-Stack AMAZON Clone with REACT JS (Full E-Comm Store)
+  </p>
+  
+  
+<!-- Badges -->
+
 <a href="https://clone-dd86d.web.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/SashenJayathilaka/AMAZON-Clone.svg)
@@ -6,7 +18,37 @@
 ![](https://img.shields.io/github/issues/SashenJayathilaka/AMAZON-Clone)
 ![](https://img.shields.io/github/last-commit/SashenJayathilaka/AMAZON-Clone)
 
-### Full E-Comm Store
+   
+<h4>
+    <a href="">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/blob/master/README.md">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/issues">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/issues">Request Feature</a>
+  </h4>
+</div>
+
+<br />
+
+<!-- Table of Contents -->
+## :notebook_with_decorative_cover: Table of Contents
+
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+- [Getting Started](#toolbox-getting-started)
+  * [Prerequisites](#bangbang-prerequisites)
+  * [Installation](#gear-installation)
+  * [Run Locally](#running-run-locally)
+  * [Deployment](#triangular_flag_on_post-deployment)
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
+
+
+<!-- About the Project -->
+## :star2: About the Project
 
 <!-- Screenshots -->
 ### :camera: Screenshots
