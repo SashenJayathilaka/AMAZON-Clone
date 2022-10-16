@@ -20,7 +20,7 @@ Full-Stack AMAZON Clone with REACT JS (Full E-Comm Store)
 
    
 <h4>
-    <a href="">View Demo</a>
+    <a href="https://clone-dd86d.web.app">View Demo</a>
   <span> · </span>
     <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/blob/master/README.md">Documentation</a>
   <span> · </span>
