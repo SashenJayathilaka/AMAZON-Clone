@@ -14,7 +14,7 @@ const fullFillOrder = async (session) => {
     .doc(session.id)
     .set({
       amount: session.amount_total / 100,
-      amount_shipping: session.total_details.amount_shipping / 100,
+      amount_shipping: 0,
       images: JSON.parse(session.metadata.images),
       timeStamp: admin.firestore.FieldValue.serverTimestamp(),
     })
@@ -62,7 +62,7 @@ export default async (req, res) => {
 
 export const config = {
   api: {
-    bodyParser: false,
+    bodyParser: false, // Useless for webhooks
     externalResolver: true,
   },
 };
