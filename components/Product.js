@@ -4,7 +4,7 @@ import Currency from "react-currency-formatter";
 import { useDispatch } from "react-redux";
 import { motion } from "framer-motion";
 
-import { addToBasket } from "../ slices/basketSlice";
+import { addToBasket } from "../slices/basketSlice";
 import { StarIcon } from "../icons";
 
 const MAX_RATING = 5;

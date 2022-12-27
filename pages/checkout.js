@@ -8,7 +8,7 @@ import React from "react";
 import Currency from "react-currency-formatter";
 import { useSelector } from "react-redux";
 
-import { selectItems, selectTotal } from "../ slices/basketSlice";
+import { selectItems, selectTotal } from "../slices/basketSlice";
 import CheckoutProduct from "../components/CheckoutProduct";
 import Header from "../components/Header";
 
