@@ -2,7 +2,7 @@
 
   <img src="https://th.bing.com/th/id/R.1a7d775d8d218f2393fd8848a386ef6e?rik=XpToT5HkM2MZ3w&riu=http%3a%2f%2fwww.jitsvinger.co.za%2fwp-content%2fuploads%2f2018%2f04%2fAmazon-Logo-1024x373.png&ehk=IvEIkdR9dlLs8931Bo9Bs2Rd4Qy2a%2fd2iHQ3%2fTesW1M%3d&risl=&pid=ImgRaw&r=0" width='450' alt="logo" />
   
-  # Full-Stack AMAZON Clone with REACT JS
+  # Amazon 2.0 with NEXT.JS!
   
   <p>
 Amazon 2.0 with NEXT.JS! (ReactJS, Webhooks, Stripe Checkout, Firestore, NextAuth, redux, Google Authentication, Basket Functionality, Tailwind CSS)
