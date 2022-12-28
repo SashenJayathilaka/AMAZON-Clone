@@ -1,11 +1,12 @@
 <div align="center">
 
-  <img src="https://th.bing.com/th/id/R.1a7d775d8d218f2393fd8848a386ef6e?rik=XpToT5HkM2MZ3w&riu=http%3a%2f%2fwww.jitsvinger.co.za%2fwp-content%2fuploads%2f2018%2f04%2fAmazon-Logo-1024x373.png&ehk=IvEIkdR9dlLs8931Bo9Bs2Rd4Qy2a%2fd2iHQ3%2fTesW1M%3d&risl=&pid=ImgRaw&r=0" width='450' alt="logo" />
+
+  <img src="https://pngimg.com/uploads/amazon/amazon_PNG25.png" width='400' alt="logo" />
   
   # Amazon 2.0 with NEXT.JS!
   
   <p>
-Amazon 2.0 with NEXT.JS! (ReactJS, Webhooks, Stripe Checkout, Firestore, NextAuth, redux, Google Authentication, Basket Functionality, Tailwind CSS)
+Amazon 2.0 with NEXT.JS! (ReactJS, Webhooks, complete Stripe Payments Checkout, Cloud Firestore database, NextAuth, Redux, Google Authentication, Add to Basket Functionality, Tailwind CSS)
   </p>
   
   
@@ -71,10 +72,11 @@ Amazon 2.0 with NEXT.JS! (ReactJS, Webhooks, Stripe Checkout, Firestore, NextAut
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://#/">Javascript</a></li>
+  <li><a href="https://#/">Javascript</a></li>
+  <li><a href="https://nextjs.org">Next.js</a></li>
   <li><a href="https://reactjs.org/">React.js</a></li>
-        <li><a href="https://react-redux.js.org">Redux</a></li>
-                <li><a href="https://#/">Stripe</a></li>
+  <li><a href="https://react-redux.js.org">Redux</a></li>
+  <li><a href="https://#/">Stripe</a></li>
   </ul>
 </details>
 
@@ -146,9 +148,9 @@ To run this project, you will need to add the following environment variables to
 
 `NEXT_PUBLIC_SECRET`
 
-`GOOGLE_CLIENT_SECRET`
-
 `NEXT_PUBLIC_BASE_URL`
+
+`GOOGLE_CLIENT_SECRET`
 
 `STRIPE_SIGNING_SECRET`
 
@@ -160,11 +162,13 @@ To run this project, you will need to add the following environment variables to
 
 `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN`
 
-`NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET`
-
 `NEXT_PUBLIC_FIREBASE_MESSAGING_SET`
 
+`NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET`
+
 `NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID`
+
+
 
 ### :gear: Installation
 
@@ -290,16 +294,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
 
 Project Link: [https://github.com/SashenJayathilaka/AMAZON-Clone.git](https://github.com/SashenJayathilaka/AMAZON-Clone.git)
-
-<!-- Acknowledgments -->
-
-## :gem: Acknowledgements
-
-Useful resources and libraries that you have used in your projects.
-
-- [Api (Backend)](https://github.com/SashenJayathilaka/AMAZON-Clone/tree/master/Backend)
-- [Stripe](https://github.com/SashenJayathilaka/AMAZON-Clone/tree/master/Stripe)
-- [NPM](https://www.npmjs.com)
 
 <hr />
 
