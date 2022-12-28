@@ -291,13 +291,6 @@ Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayath
 
 Project Link: [https://github.com/SashenJayathilaka/AMAZON-Clone.git](https://github.com/SashenJayathilaka/AMAZON-Clone.git)
 
-<hr />
-
-<div align="center">
-<a href="https://amazon-sclone.vercel.app" target="_blank"><img  src='https://user-images.githubusercontent.com/99184393/209749188-705d7936-5289-4b26-ae22-a5ac418a2d77.png' alt='image' width='900rem' /></a>
-  <a href="https://amazon-sclone.vercel.app" target="_blank"><img  src='https://user-images.githubusercontent.com/99184393/209749299-3e1c4ec9-cc67-48b4-8044-775027d3af34.png' alt='image' width='900rem' /></a>
-</div>
-
 <!-- Acknowledgments -->
 
 ## :gem: Acknowledgements
@@ -307,6 +300,14 @@ Useful resources and libraries that you have used in your projects.
 - [Api (Backend)](https://github.com/SashenJayathilaka/AMAZON-Clone/tree/master/Backend)
 - [Stripe](https://github.com/SashenJayathilaka/AMAZON-Clone/tree/master/Stripe)
 - [NPM](https://www.npmjs.com)
+
+<hr />
+
+<div align="center">
+<a href="https://amazon-sclone.vercel.app" target="_blank"><img  src='https://user-images.githubusercontent.com/99184393/209749188-705d7936-5289-4b26-ae22-a5ac418a2d77.png' alt='image' width='900rem' /></a>
+  <a href="https://amazon-sclone.vercel.app" target="_blank"><img  src='https://user-images.githubusercontent.com/99184393/209749299-3e1c4ec9-cc67-48b4-8044-775027d3af34.png' alt='image' width='900rem' /></a>
+</div>
+
 
 <br />
 
