@@ -6,6 +6,10 @@ const serviceAccount = require("../../firebase/permissions.json");
 const fullFillOrder = async (session) => {
   console.log("Full fill order", session);
 
+  const images = JSON.parse(session.metadata.images).map((image) =>
+    JSON.stringify(image)
+  );
+
   return app
     .firestore()
     .collection("users")
@@ -14,13 +18,14 @@ const fullFillOrder = async (session) => {
     .doc(session.id)
     .set({
       amount: session.amount_total / 100,
-      amount_shipping: 0,
-      images: JSON.parse(session.metadata.images),
+      amount_shipping: session.total_details.amount_shipping / 100 || 30,
+      images: images,
       timeStamp: admin.firestore.FieldValue.serverTimestamp(),
     })
     .then(() => {
       console.log(`suess: oreder ${session.id} had been added to the DB`);
-    });
+    })
+    .catch((err) => console.log("Erreur a l'insertion !", err.message));
 };
 
 const app = !admin.apps.length
