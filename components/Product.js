@@ -1,11 +1,12 @@
+import { motion } from "framer-motion";
 import Image from "next/image";
 import React, { useState } from "react";
 import Currency from "react-currency-formatter";
+import toast, { Toaster } from "react-hot-toast";
 import { useDispatch } from "react-redux";
-import { motion } from "framer-motion";
 
-import { addToBasket } from "../slices/basketSlice";
 import { StarIcon } from "../icons";
+import { addToBasket } from "../slices/basketSlice";
 
 const MAX_RATING = 5;
 const MIN_RATING = 1;
@@ -26,6 +27,8 @@ const Product = ({
   const [hasPrime] = useState(Math.random() < 0.5);
 
   const addItemTOBasket = () => {
+    const loadingToast = toast.loading("Adding Item...");
+
     const product = {
       id,
       title,
@@ -38,6 +41,16 @@ const Product = ({
     };
 
     dispatch(addToBasket(product));
+
+    toast.success(`${title}`, {
+      id: loadingToast,
+
+      position: "bottom-right",
+      style: {
+        textAlign: "center",
+        padding: "18px",
+      },
+    });
   };
 
   return (
@@ -45,8 +58,9 @@ const Product = ({
       initial={{ opacity: 0 }}
       whileInView={{ opacity: 1 }}
       viewport={{ once: true }}
-      className="relative flex flex-col m-5 bg-white z-30 p-10"
+      className="relative flex flex-col m-5 bg-white z-30 p-10 hover:shadow-lg"
     >
+      <Toaster />
       <p className="absolute top-2 right-2 text-xs italic text-gray-400">
         {category}
       </p>
@@ -82,9 +96,14 @@ const Product = ({
           <p className="text-xs text-gray-500">FREE Next-day Delivery</p>
         </div>
       )}
-      <button onClick={addItemTOBasket} className="mt-auto button">
+      <motion.button
+        whileHover={{ scale: 1.1 }}
+        whileTap={{ scale: 0.9 }}
+        onClick={addItemTOBasket}
+        className="mt-auto button"
+      >
         Add to Busket
-      </button>
+      </motion.button>
     </motion.div>
   );
 };
