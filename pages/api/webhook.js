@@ -6,10 +6,6 @@ const serviceAccount = require("../../firebase/permissions.json");
 const fullFillOrder = async (session) => {
   console.log("Full fill order", session);
 
-  const images = JSON.parse(session.metadata.images).map((image) =>
-    JSON.stringify(image)
-  );
-
   return app
     .firestore()
     .collection("users")
@@ -19,7 +15,7 @@ const fullFillOrder = async (session) => {
     .set({
       amount: session.amount_total / 100,
       amount_shipping: session.total_details.amount_shipping / 100 || 30,
-      images: images,
+      images: JSON.parse(session.metadata.images),
       timeStamp: admin.firestore.FieldValue.serverTimestamp(),
     })
     .then(() => {
