@@ -36,7 +36,7 @@ const CheckoutProduct = ({
 
     dispatch(addToBasket(product));
 
-    toast.success(`${title} Added`, {
+    toast.success(`Item Added To Basket`, {
       id: loadingToast,
 
       position: "bottom-right",
@@ -52,7 +52,7 @@ const CheckoutProduct = ({
 
     dispatch(removeFromBasket({ id }));
 
-    toast.error(`${title}`, {
+    toast.error(`Item Removed from Basket`, {
       id: loadingToast,
 
       position: "bottom-right",
